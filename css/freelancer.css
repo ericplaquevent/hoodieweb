@@ -198,6 +198,10 @@ section.success {
   right: 0;
 }
 #portfolio .portfolio-item .portfolio-link {
+  color: rgb(51, 51, 51);
+  font-size: 1.75em;
+  text-align: center;
+  text-decoration: none;
   display: block;
   position: relative;
   max-width: 400px;
